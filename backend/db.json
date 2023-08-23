@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "JavaScript: Programando a Orientação a Objetos",
+      "autoria": "Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Aprenda os fundamentos de um dos melhores e mais famosos Frameworks JS.",
+      "autoria": "teste",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Estabeleça novos desafios, saia da sua zona de conforto, enfrente os seus maiores medos. Desse modo, a recompensa é só uma consequência.",
+      "autoria": "Mariana Mello Machado",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "conteudo": "Angular",
+      "autoria": "teste",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Que a força esteja com você",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "sdasdasd",
+      "autoria": "aaaaa",
+      "modelo": "modelo1",
+      "id": 9
+    }
+  ]
+}
