@@ -44,21 +44,21 @@
     },
     {
       "id": 10,
-      "conteudo": "guerras não fazem ninguém maior",
-      "autoria": "mestre yoda",
+      "conteudo": "Guerras não fazem ninguém maior.",
+      "autoria": "Mestre Yoda",
       "modelo": "modelo2"
     },
     {
-      "conteudo": "o homem que dá a sentença deve brandir a espada.",
-      "autoria": "ned stark",
-      "modelo": "modelo3",
-      "id": 11
+      "id": 11,
+      "conteudo": "O homem que dá a sentença deve brandir a espada.",
+      "autoria": "Ned Stark",
+      "modelo": "modelo3"
     },
     {
-      "conteudo": "um lannister sempre paga suas dívidas.",
-      "autoria": "lannisters",
-      "modelo": "modelo2",
-      "id": 12
+      "id": 12,
+      "conteudo": "Um Lannister sempre paga suas dívidas.",
+      "autoria": "Lannisters",
+      "modelo": "modelo2"
     },
     {
       "conteudo": "existe apenas um deus e o nome dele é morte. e existe só uma coisa que dizemos para a morte: hoje não!",
@@ -67,10 +67,10 @@
       "id": 13
     },
     {
-      "conteudo": "quando você joga o jogo dos tronos, você vence ou você morre.",
-      "autoria": "cersei lannister",
-      "modelo": "modelo1",
-      "id": 14
+      "id": 14,
+      "conteudo": "Quando você joga o jogo dos tronos, você vence ou você morre.",
+      "autoria": "Cersei Lannister",
+      "modelo": "modelo1"
     },
     {
       "conteudo": "A noite é escura e cheia de horrores!",
