@@ -54,7 +54,7 @@
       "conteudo": "Guerras não fazem ninguém maior.",
       "autoria": "Mestre Yoda",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 11,
@@ -74,7 +74,7 @@
       "conteudo": "existe apenas um deus e o nome dele é morte. e existe só uma coisa que dizemos para a morte: hoje não!",
       "autoria": "syrio forel",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": 13
     },
     {
@@ -95,7 +95,7 @@
       "conteudo": "Qualquer homem que precisa dizer “eu sou o rei” não é um rei de verdade.",
       "autoria": "Tywin Lannister",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 16
     },
     {
@@ -109,14 +109,14 @@
       "conteudo": "Deixe um lobo vivo e as ovelhas nunca estarão seguras.",
       "autoria": "Arya Stark",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 18
     },
     {
       "conteudo": "O Norte se lembra.",
       "autoria": "Arya Stark",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 19
     }
   ]
