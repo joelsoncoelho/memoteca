@@ -8,8 +8,8 @@
     },
     {
       "id": 3,
-      "conteudo": "Aprenda os fundamentos de um dos melhores e mais famosos Frameworks JS.",
-      "autoria": "teste",
+      "conteudo": "Sempre em movimento é o Futuro.",
+      "autoria": "Mestre Yoda",
       "modelo": "modelo1"
     },
     {
@@ -19,16 +19,16 @@
       "id": 5
     },
     {
-      "conteudo": "Estabeleça novos desafios, saia da sua zona de conforto, enfrente os seus maiores medos. Desse modo, a recompensa é só uma consequência.",
-      "autoria": "Mariana Mello Machado",
-      "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "conteudo": "“Você deve desaprender o que aprendeu”",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo2"
     },
     {
-      "conteudo": "Angular",
-      "autoria": "teste",
-      "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "conteudo": "“Fazer ou não fazer. Tentativa não há”",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo3"
     },
     {
       "conteudo": "Que a força esteja com você",
@@ -37,10 +37,70 @@
       "id": 8
     },
     {
-      "conteudo": "sdasdasd",
-      "autoria": "aaaaa",
+      "id": 9,
+      "conteudo": "O inverno está chegando!",
+      "autoria": "Ned Stark",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 10,
+      "conteudo": "guerras não fazem ninguém maior",
+      "autoria": "mestre yoda",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "o homem que dá a sentença deve brandir a espada.",
+      "autoria": "ned stark",
+      "modelo": "modelo3",
+      "id": 11
+    },
+    {
+      "conteudo": "um lannister sempre paga suas dívidas.",
+      "autoria": "lannisters",
+      "modelo": "modelo2",
+      "id": 12
+    },
+    {
+      "conteudo": "existe apenas um deus e o nome dele é morte. e existe só uma coisa que dizemos para a morte: hoje não!",
+      "autoria": "syrio forel",
       "modelo": "modelo1",
-      "id": 9
+      "id": 13
+    },
+    {
+      "conteudo": "quando você joga o jogo dos tronos, você vence ou você morre.",
+      "autoria": "cersei lannister",
+      "modelo": "modelo1",
+      "id": 14
+    },
+    {
+      "conteudo": "A noite é escura e cheia de horrores!",
+      "autoria": "Melisandre",
+      "modelo": "modelo1",
+      "id": 15
+    },
+    {
+      "conteudo": "Qualquer homem que precisa dizer “eu sou o rei” não é um rei de verdade.",
+      "autoria": "Tywin Lannister",
+      "modelo": "modelo2",
+      "id": 16
+    },
+    {
+      "conteudo": "Todos os homens devem morrer, mas nós não somos homens.",
+      "autoria": "Daenerys Targaryen",
+      "modelo": "modelo3",
+      "id": 17
+    },
+    {
+      "conteudo": "Deixe um lobo vivo e as ovelhas nunca estarão seguras.",
+      "autoria": "Arya Stark",
+      "modelo": "modelo3",
+      "id": 18
+    },
+    {
+      "conteudo": "O Norte se lembra.",
+      "autoria": "Arya Stark",
+      "modelo": "modelo3",
+      "id": 19
     }
   ]
 }

@@ -16,11 +16,11 @@
     *ngIf="myForm.get('conteudo')?.errors && myForm.get('conteudo')?.touched">
       Pensamento é obrigatório!
     </div>
-
-    <div class="mensagem__erro"
-    *ngIf="myForm.get('conteudo')?.errors?.['minusculo'] && myForm.get('conteudo')?.touched">
+<!--
+    <div class="mensagem__erro" *ngIf="myForm.get('conteudo')?.errors?.['minusculo'] && myForm.get('conteudo')?.touched">
       Esse campo aceita apenas letras minúsculas"
   </div>
+-->
 
     <label for="autoria">Autoria</label>
     <input type="text"
@@ -34,10 +34,11 @@
             Autoria é obrigatória!
           </div>
 
-           <div class="mensagem__erro"
-           *ngIf="myForm.get('autoria')?.errors?.['minlength'] && myForm.get('autoria')?.touched">
+          <!--
+           <div class="mensagem__erro" *ngIf="myForm.get('autoria')?.errors?.['minlength'] && myForm.get('autoria')?.touched">
             Autoria precisa ter no mínimo 3 caracteres!
           </div>
+        -->
 
     <label for="modelo">Selecione o modelo do card:</label>
 

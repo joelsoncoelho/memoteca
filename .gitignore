@@ -1,6 +1,7 @@
 # Angular
 .angular
-
+# VsCode
+.vscode
 # Compiled output
 /dist
 /tmp

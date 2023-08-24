@@ -15,6 +15,7 @@ import { Error404Component } from './componentes/pensamentos/error404/error404.c
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pensamento/excluir-pensamento.component';
 import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pensamento/editar-pensamento.component';
+import { BotaoCarregarMaisComponent } from './componentes/pensamentos/listar-pensamento/botao-carregar-mais/botao-carregar-mais.component';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pens
     Error404Component,
     PensamentoComponent,
     ExcluirPensamentoComponent,
-    EditarPensamentoComponent
+    EditarPensamentoComponent,
+    BotaoCarregarMaisComponent
   ],
   imports: [
     BrowserModule,

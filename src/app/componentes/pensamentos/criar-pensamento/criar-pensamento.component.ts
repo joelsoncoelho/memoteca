@@ -24,12 +24,12 @@ export class CriarPensamentoComponent implements OnInit {
       conteudo: ['', Validators.compose([
         Validators.required,
         Validators.pattern(/(.|\s)*\S(.|\s)*/),
-        minusculoValidator
+        /*minusculoValidator*/
       ])],
       autoria: ['', Validators.compose([
         Validators.required,
         Validators.minLength(3),
-        minusculoValidator
+        /*minusculoValidator*/
       ])],
       modelo: ['modelo1']
     })
